@@ -8,11 +8,25 @@
       "imageURL": "https://image.tmdb.org/t/p/w220_and_h330_face/wHa6KOJAoNTFLFtp7wguUJKSnju.jpg"
     },
     {
-      "id": 3,
+      "id": 2,
       "name": "Deadwood",
       "rating": 9,
       "overview": "Follow the 10-year reunion of the Deadwood camp to celebrate South Dakota's statehood. Former rivalries are reignited, alliances are tested and old wounds are reopened, as all are left to navigate the inevitable changes that modernity and time have wrought.",
       "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fCQ13cqd02dop7Chkov0fPl4r3t.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Project Power",
+      "rating": 6.7,
+      "overview": "This is a wider card with supporting text below as a natural lead-in to additional content.",
+      "imageURL": "https://image.tmdb.org/t/p/w220_and_h330_face/TnOeov4w0sTtV2gqICqIxVi74V.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Project Power",
+      "rating": 6.7,
+      "overview": "This is a wider card with supporting text below as a natural lead-in to additional content.",
+      "imageURL": "https://image.tmdb.org/t/p/w220_and_h330_face/TnOeov4w0sTtV2gqICqIxVi74V.jpg"
     },
     {
       "id": 5,
@@ -20,6 +34,76 @@
       "rating": 6.7,
       "overview": "This is a wider card with supporting text below as a natural lead-in to additional content.",
       "imageURL": "https://image.tmdb.org/t/p/w220_and_h330_face/TnOeov4w0sTtV2gqICqIxVi74V.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Project Power",
+      "rating": 6.7,
+      "overview": "This is a wider card with supporting text below as a natural lead-in to additional content.",
+      "imageURL": "https://image.tmdb.org/t/p/w220_and_h330_face/TnOeov4w0sTtV2gqICqIxVi74V.jpg"
+    },
+    {
+      "id": 7,
+      "name": "The Flash",
+      "rating": 8.3,
+      "overview": "This is a wider card with supporting text below as a natural lead-in to additional content.",
+      "imageURL": "https://image.tmdb.org/t/p/w220_and_h330_face/wHa6KOJAoNTFLFtp7wguUJKSnju.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Rogue",
+      "rating": 7.4,
+      "overview": "This is a wider card with supporting text below as a natural lead-in to additional content.",
+      "imageURL": "https://image.tmdb.org/t/p/w220_and_h330_face/uOw5JD8IlD546feZ6oxbIjvN66P.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Project Power",
+      "rating": 6.7,
+      "overview": "This is a wider card with supporting text below as a natural lead-in to additional content.",
+      "imageURL": "https://image.tmdb.org/t/p/w220_and_h330_face/TnOeov4w0sTtV2gqICqIxVi74V.jpg"
+    },
+    {
+      "name": "Superman",
+      "rating": 7.6,
+      "overview": "This is a wider card with supporting text below as a natural lead-in to additional contasdfent.",
+      "imageURL": "https://image.tmdb.org/t/p/w220_and_h330_face/6Bbq8qQWpoApLZYWFFAuZ1r2gFw.jpg",
+      "id": 10
+    },
+    {
+      "name": "test",
+      "rating": "6",
+      "imageURL": "test.jpg",
+      "overview": "test desc lorem ipsum dolor amet cod kalara",
+      "id": 11
+    },
+    {
+      "name": "ant z",
+      "rating": "10",
+      "overview": "antz desc here hmmmmmmmmm",
+      "imageURL": "https://mediacms01.digiturkplay.com/sa_bc/PT0000093611/antz-yn_220x286_raw.jpg",
+      "id": 12
+    },
+    {
+      "name": "testtestestes",
+      "rating": "2",
+      "overview": "test2jpgeeeeeeeeeeeeeeeeeeeeee",
+      "imageURL": "test.jpg",
+      "id": 13
+    },
+    {
+      "name": "testttasdf",
+      "rating": "5.5",
+      "overview": "this is a testtttt desc ",
+      "imageURL": "testttt.jpg",
+      "id": 14
+    },
+    {
+      "name": "asdf",
+      "rating": "12",
+      "imageURL": "asd",
+      "overview": "asd",
+      "id": 15
     }
   ]
 }
